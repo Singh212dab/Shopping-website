@@ -1,0 +1,2 @@
+2021-05-22T14:57:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.7.2-0\apps\wordpress\htdocs\wp-includes\Requests\Transport\cURL.php on line 441
+
